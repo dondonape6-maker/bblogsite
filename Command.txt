@@ -1,0 +1,5 @@
+"Command fot GitHub" 
+git init
+git add
+git commit -m "Explanations"
+git push
